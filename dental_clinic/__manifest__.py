@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 
 {
-    'name': 'Dental Clinic Mangement System',
+    'name': 'MolarFlow',
     'version': '1.0',
     'sequence': -101,
     'category': 'Accounting/Accounting',
-    'summary': 'Management',
+    'summary': 'Dental clinic patient, appointment, and prescription management',
     'description': """Helping you to insure a great experience""",
     'depends': ['base', 'account' ,'calendar', 'sales_team', 'payment', 'portal', 'utm', 'sale', 'mail', 'crm', 'l10n_co',
                 'point_of_sale'],
