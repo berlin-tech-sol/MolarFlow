@@ -20,39 +20,39 @@ MolarFlow is an Odoo 13 custom addon for managing a dental clinic's patients, do
 ## Screenshots
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image2.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image2.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image3.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image3.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image4.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image4.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image5.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image5.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image1.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image1.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image6.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image6.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image7.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image7.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image8.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image8.png">
 </picture>
 
 <picture>
- <img alt="Screenshot1" src="https://raw.githubusercontent.com/ambientWave/Odoo-Dental-Clinic-Managment-System-With-REST-API/main/Image9.png">
+ <img alt="Screenshot1" src="https://raw.githubusercontent.com/berlin-tech-sol/MolarFlow/master/Image9.png">
 </picture>
 
 ## Running the project
